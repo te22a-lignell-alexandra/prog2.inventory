@@ -1,0 +1,14 @@
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\obj\Debug\net8.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfoInputs.cache
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfo.cs
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\obj\Debug\net8.0\Inventory.csproj.CoreCompileInputs.cache
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\bin\Debug\net8.0\Inventory.exe
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\bin\Debug\net8.0\Inventory.deps.json
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\bin\Debug\net8.0\Inventory.runtimeconfig.json
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\bin\Debug\net8.0\Inventory.dll
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\bin\Debug\net8.0\Inventory.pdb
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\obj\Debug\net8.0\Inventory.dll
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\obj\Debug\net8.0\refint\Inventory.dll
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\obj\Debug\net8.0\Inventory.pdb
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\obj\Debug\net8.0\Inventory.genruntimeconfig.cache
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.inventory\Inventory\obj\Debug\net8.0\ref\Inventory.dll
